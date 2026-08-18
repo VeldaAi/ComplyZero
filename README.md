@@ -2,22 +2,10 @@
 
 **Free & open-source security compliance — without the $50K/year vendor tax.**
 
-A practical research summary on whether a startup actually needs Vanta (and friends),
-what GitHub already gives you for free, and which open-source tools can replace the
-rest.
+A practical research summary on whether a startup actually needs.
 
 ---
 
-## The Question That Started This
-
-> *"Would Vanta in GitHub be useful for us?"*
-
-Short answer: **Not yet — and when we do need it, we probably won't pay for it.**
-
-This repo is the full reasoning, the free alternatives, and a decision framework
-so we never burn money on compliance software before a deal actually demands it.
-
----
 
 ## What Is Vanta?
 
@@ -38,9 +26,7 @@ so we never burn money on compliance software before a deal actually demands it.
   tool you use
 
 ### When it IS worth it
-The day a serious enterprise/healthcare customer (think Podo360, MedBill, WoundAI
-deals) asks for a **BAA + SOC 2/HIPAA posture** — then it unblocks revenue and
-pays for itself.
+The day a serious enterprise/healthcare customer.
 
 ---
 
